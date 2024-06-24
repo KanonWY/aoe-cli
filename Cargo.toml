@@ -1,0 +1,8 @@
+[package]
+name = "aoe"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.0.0", features = ["derive"] }
+clap_complete = "4.0"
